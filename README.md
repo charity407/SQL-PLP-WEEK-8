@@ -139,11 +139,9 @@ You can now test with:
 
 ---
 
-## 📬 Support
+## ERD DIAGRAM
+![clinical_booking_system_erd](https://github.com/user-attachments/assets/9a393657-1492-4a10-9744-a103463a14a3)
 
-For any issues or contributions, feel free to open a pull request or contact me at `your.email@example.com`.
-
----
 
 
 
