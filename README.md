@@ -121,5 +121,12 @@ Feel free to fork, improve, or extend the system. You can add:
 ---
 
 ## ERD DIAGRAM
-![clinical_booking_system_erd](https://github.com/user-attachments/assets/9e65cafe-8fb1-4247-9cbd-744b42beaf13)
+
+![clinical_booking_system_erd](https://github.com/user-attachments/assets/44212998-6d17-40de-a745-4d26cd4c23e2)
+
+
+
+   
+
+
 
